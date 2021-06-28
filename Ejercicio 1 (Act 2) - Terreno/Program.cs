@@ -16,7 +16,7 @@ namespace Ejercicio_1__Act_2____Terreno
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new frmCotizacion());
         }
     }
 }

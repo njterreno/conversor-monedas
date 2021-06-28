@@ -40,3 +40,14 @@ C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Prof
 C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csproj.CoreCompileInputs.cache
 C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.exe
 C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csprojAssemblyReference.cache
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csproj.GenerateResource.cache
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe.config
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.Properties.Resources.resources
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csproj.CoreCompileInputs.cache
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.frmConvertir.resources
+C:\Users\nata_\Documents\GIT\conversor-monedas\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.frmCotizacion.resources
