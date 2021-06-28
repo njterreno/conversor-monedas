@@ -1,0 +1,9 @@
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Conversor.exe.config
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Conversor.exe
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Conversor.pdb
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Conversor.csprojResolveAssemblyReference.cache
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Conversor.Properties.Resources.resources
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Conversor.csproj.GenerateResource.Cache
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Conversor.exe
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Conversor.pdb
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Conversor.Form1.resources

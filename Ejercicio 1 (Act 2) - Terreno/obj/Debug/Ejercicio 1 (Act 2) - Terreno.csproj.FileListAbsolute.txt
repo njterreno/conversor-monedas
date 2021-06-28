@@ -1,0 +1,42 @@
+c:\users\najote\documents\visual studio 2012\Projects\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe.config
+c:\users\najote\documents\visual studio 2012\Projects\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.Form1.resources
+c:\users\najote\documents\visual studio 2012\Projects\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.Properties.Resources.resources
+c:\users\najote\documents\visual studio 2012\Projects\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csproj.GenerateResource.Cache
+c:\users\najote\documents\visual studio 2012\Projects\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+c:\users\najote\documents\visual studio 2012\Projects\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+c:\users\najote\documents\visual studio 2012\Projects\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+c:\users\najote\documents\visual studio 2012\Projects\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe.config
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csprojResolveAssemblyReference.cache
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.Form1.resources
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.Properties.Resources.resources
+C:\Users\NAJOTE\Desktop\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csproj.GenerateResource.Cache
+D:\Nayot\Cosas a guardar\Materias\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe.config
+D:\Nayot\Cosas a guardar\Materias\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+D:\Nayot\Cosas a guardar\Materias\Practica profesionalizante I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+E:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe.config
+E:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+E:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+E:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+E:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+E:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csprojResolveAssemblyReference.cache
+E:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.Form1.resources
+E:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.Properties.Resources.resources
+E:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csproj.GenerateResource.Cache
+D:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe.config
+D:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+D:\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe.config
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\bin\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csprojAssemblyReference.cache
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.Form1.resources
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio_1__Act_2____Terreno.Properties.Resources.resources
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csproj.GenerateResource.cache
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.csproj.CoreCompileInputs.cache
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.exe
+C:\Users\nata_\Desktop\Compu Lalo\pendrive blanco\PenDrive Escuela\Practica Profes. I\Ejercicio 1 (Act 2) - Terreno\Ejercicio 1 (Act 2) - Terreno\obj\Debug\Ejercicio 1 (Act 2) - Terreno.pdb
