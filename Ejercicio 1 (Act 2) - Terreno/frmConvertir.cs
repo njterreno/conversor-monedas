@@ -77,10 +77,15 @@ namespace Ejercicio_1__Act_2____Terreno
             }
         }
 
-        private void btnEditarCotizaicon_Click(object sender, EventArgs e)
+        private void btnEditarCotizacion_Click(object sender, EventArgs e)
         {
-            frmCotizacion frm = new frmCotizacion();
-            frm.Show();
+            frmCotizacion frmCotizacion = new frmCotizacion();
+            frmCotizacion.Show();
+        }
+
+        private void frmConvertir_FormClosed(object sender, FormClosedEventArgs e)
+        {
+            Application.Exit();
         }
 
         //metodo donde convierte el importe ingresado en el importe seleccionado
@@ -171,12 +176,13 @@ namespace Ejercicio_1__Act_2____Terreno
                     "cotizaciones, luego de poner la cantidad a convertir y por último seleccionar la de qué moneda a qué moneda desea " +
                     "convertir el monto", "Alerta", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
-        }        
+        }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void frmConvertir_Load(object sender, EventArgs e)
         {
-            txtImporteConvertir.Text = cot_dolar.ToString();
-            txtImporteConvertido.Text = "1";
-        }        
+            
+            //txtImporteConvertir.Text = cot_dolar.ToString();
+            //txtImporteConvertido.Text = "1";
+        }
     }
 }

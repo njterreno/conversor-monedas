@@ -19,12 +19,16 @@ namespace Ejercicio_1__Act_2____Terreno
 
         private void btnCargar_Click(object sender, EventArgs e)
         {
-            frmConvertir frm = new frmConvertir();
+            frmConvertir frmConvertir = new frmConvertir();
+            
             if (!string.IsNullOrEmpty(txtDolar.Text) && !string.IsNullOrEmpty(txtEuro.Text))
             {
-                frm.cot_dolar = Convert.ToDouble(txtDolar.Text);
-                frm.cot_euro = Convert.ToDouble(txtEuro.Text);
-                frm.Show();
+                frmConvertir.cot_dolar = Convert.ToDouble(txtDolar.Text);
+                frmConvertir.cot_euro = Convert.ToDouble(txtEuro.Text);
+                frmConvertir.txtImporteConvertir.Text = txtDolar.Text;
+                frmConvertir.txtImporteConvertido.Text = "1";
+                this.Hide();
+                frmConvertir.Show();                
             }
             else
             {

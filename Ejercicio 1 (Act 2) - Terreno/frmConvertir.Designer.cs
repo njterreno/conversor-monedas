@@ -43,7 +43,7 @@
             this.lblDe = new System.Windows.Forms.Label();
             this.lblImporteConvertido = new System.Windows.Forms.Label();
             this.lblImporteConvertir = new System.Windows.Forms.Label();
-            this.btnEditarCotizaicon = new System.Windows.Forms.Button();
+            this.btnEditarCotizacion = new System.Windows.Forms.Button();
             this.pnlConvertido.SuspendLayout();
             this.pnlConvertir.SuspendLayout();
             this.SuspendLayout();
@@ -204,23 +204,23 @@
             this.lblImporteConvertir.TabIndex = 10;
             this.lblImporteConvertir.Text = "Importe a convertir";
             // 
-            // btnEditarCotizaicon
+            // btnEditarCotizacion
             // 
-            this.btnEditarCotizaicon.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnEditarCotizaicon.Location = new System.Drawing.Point(148, 196);
-            this.btnEditarCotizaicon.Name = "btnEditarCotizaicon";
-            this.btnEditarCotizaicon.Size = new System.Drawing.Size(100, 34);
-            this.btnEditarCotizaicon.TabIndex = 19;
-            this.btnEditarCotizaicon.Text = "Editar cotización";
-            this.btnEditarCotizaicon.UseVisualStyleBackColor = true;
-            this.btnEditarCotizaicon.Click += new System.EventHandler(this.btnEditarCotizaicon_Click);
+            this.btnEditarCotizacion.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnEditarCotizacion.Location = new System.Drawing.Point(148, 196);
+            this.btnEditarCotizacion.Name = "btnEditarCotizacion";
+            this.btnEditarCotizacion.Size = new System.Drawing.Size(100, 34);
+            this.btnEditarCotizacion.TabIndex = 19;
+            this.btnEditarCotizacion.Text = "Editar cotización";
+            this.btnEditarCotizacion.UseVisualStyleBackColor = true;
+            this.btnEditarCotizacion.Click += new System.EventHandler(this.btnEditarCotizacion_Click);
             // 
             // frmConvertir
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(277, 242);
-            this.Controls.Add(this.btnEditarCotizaicon);
+            this.Controls.Add(this.btnEditarCotizacion);
             this.Controls.Add(this.txtImporteConvertir);
             this.Controls.Add(this.btnReestablecer);
             this.Controls.Add(this.pnlConvertido);
@@ -235,7 +235,8 @@
             this.Name = "frmConvertir";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Conversor";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmConvertir_FormClosed);
+            this.Load += new System.EventHandler(this.frmConvertir_Load);
             this.pnlConvertido.ResumeLayout(false);
             this.pnlConvertido.PerformLayout();
             this.pnlConvertir.ResumeLayout(false);
@@ -246,8 +247,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.TextBox txtImporteConvertir;
         private System.Windows.Forms.Button btnReestablecer;
         private System.Windows.Forms.Panel pnlConvertido;
         private System.Windows.Forms.RadioButton rdbEuroConvertido;
@@ -257,12 +256,13 @@
         private System.Windows.Forms.RadioButton rdbEuroConvertir;
         private System.Windows.Forms.RadioButton rdbDolarConvertir;
         private System.Windows.Forms.RadioButton rdbPesoConvertir;
-        private System.Windows.Forms.TextBox txtImporteConvertido;
         private System.Windows.Forms.Label lblA;
         private System.Windows.Forms.Label lblDe;
         private System.Windows.Forms.Label lblImporteConvertido;
         private System.Windows.Forms.Label lblImporteConvertir;
-        private System.Windows.Forms.Button btnEditarCotizaicon;
+        private System.Windows.Forms.Button btnEditarCotizacion;
+        public System.Windows.Forms.TextBox txtImporteConvertir;
+        public System.Windows.Forms.TextBox txtImporteConvertido;
     }
 }
 
